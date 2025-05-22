@@ -1,0 +1,129 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
+  <diagram name="第 1 页" id="mjiwsh-UgL899i7yMrwh">
+    <mxGraphModel dx="973" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="init" value="初始化模型和分词器 (init())" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;" parent="1" vertex="1">
+          <String as="geometry">
+            <add value="{" />
+            <add value="x" />
+            <add value=":" />
+            <add value="1" />
+            <add value="0" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="y" />
+            <add value=":" />
+            <add value="5" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="w" />
+            <add value="i" />
+            <add value="d" />
+            <add value="t" />
+            <add value="h" />
+            <add value=":" />
+            <add value="2" />
+            <add value="0" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="h" />
+            <add value="e" />
+            <add value="i" />
+            <add value="g" />
+            <add value="h" />
+            <add value="t" />
+            <add value=":" />
+            <add value="4" />
+            <add value="0" />
+            <add value="}" />
+          </String>
+        </mxCell>
+        <mxCell id="main_loop" value="主循环 (等待用户输入)" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;" parent="1" vertex="1">
+          <String as="geometry">
+            <add value="{" />
+            <add value="x" />
+            <add value=":" />
+            <add value="1" />
+            <add value="0" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="y" />
+            <add value=":" />
+            <add value="1" />
+            <add value="5" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="w" />
+            <add value="i" />
+            <add value="d" />
+            <add value="t" />
+            <add value="h" />
+            <add value=":" />
+            <add value="2" />
+            <add value="0" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="h" />
+            <add value="e" />
+            <add value="i" />
+            <add value="g" />
+            <add value="h" />
+            <add value="t" />
+            <add value=":" />
+            <add value="4" />
+            <add value="0" />
+            <add value="}" />
+          </String>
+        </mxCell>
+        <mxCell id="user_input" value="用户输入 prompt" style="shape=parallelogram;fillColor=#f8cecc;" parent="1" vertex="1">
+          <String as="geometry">
+            <add value="{" />
+            <add value="x" />
+            <add value=":" />
+            <add value="1" />
+            <add value="0" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="y" />
+            <add value=":" />
+            <add value="2" />
+            <add value="5" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="w" />
+            <add value="i" />
+            <add value="d" />
+            <add value="t" />
+            <add value="h" />
+            <add value=":" />
+            <add value="2" />
+            <add value="0" />
+            <add value="0" />
+            <add value="," />
+            <add value=" " />
+            <add value="h" />
+            <add value="e" />
+            <add value="i" />
+            <add value="g" />
+            <add value="h" />
+            <add value="t" />
+            <add value=":" />
+            <add value="4" />
+            <add value="0" />
+            <add value="}" />
+          </String>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
