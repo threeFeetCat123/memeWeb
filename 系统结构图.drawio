@@ -7,7 +7,7 @@
         <mxCell id="3gMsG_vnIVLzhyqSPz0f-73" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="90" y="220" width="635" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="PLIH09JZNJRa1B-eEbgW-1" value="基于模型并行编辑的敏感词替换系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="3gMsG_vnIVLzhyqSPz0f-73" vertex="1">
+        <mxCell id="PLIH09JZNJRa1B-eEbgW-1" value="基于模型并行编辑的大语言模型系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="3gMsG_vnIVLzhyqSPz0f-73" vertex="1">
           <mxGeometry x="270" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gMsG_vnIVLzhyqSPz0f-1" value="并行模型模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3gMsG_vnIVLzhyqSPz0f-73">
