@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9">
   <diagram name="第 1 页" id="zHgMYF8rfY-c1md7bBGS">
-    <mxGraphModel dx="216" dy="154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="915" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PLIH09JZNJRa1B-eEbgW-1" value="基于模型并行编辑的大语言模型系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="220" width="230" height="60" as="geometry" />
+          <mxGeometry x="455" y="220" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gMsG_vnIVLzhyqSPz0f-1" value="敏感词生成模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="480" width="115" height="60" as="geometry" />
@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="3gMsG_vnIVLzhyqSPz0f-48" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="494.66" y="320" as="sourcePoint" />
-            <mxPoint x="494.66" y="280" as="targetPoint" />
+            <mxPoint x="575" y="320" as="sourcePoint" />
+            <mxPoint x="575" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3gMsG_vnIVLzhyqSPz0f-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
