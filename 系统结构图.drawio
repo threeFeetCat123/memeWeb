@@ -4,8 +4,65 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PLIH09JZNJRa1B-eEbgW-1" value="基于模型并行编辑的敏感词替换系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLIH09JZNJRa1B-eEbgW-1" value="基于模型并行编辑的敏感词替换系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="220" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-1" value="并行模型模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="405" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-2" value="数据处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-3" value="自动化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-7" value="主&lt;div&gt;模&lt;/div&gt;&lt;div&gt;型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="700" width="40" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-8" value="训练与评测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293.5" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-9" value="哨&lt;div&gt;兵&lt;br&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;型&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="715" width="40" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-10" value="配&lt;div&gt;置&lt;/div&gt;&lt;div&gt;文&lt;/div&gt;&lt;div&gt;件&lt;/div&gt;&lt;div&gt;生&lt;/div&gt;&lt;div&gt;成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="707" width="45" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-11" value="自&lt;div&gt;动&lt;/div&gt;&lt;div&gt;化&lt;/div&gt;&lt;div&gt;训&lt;/div&gt;&lt;div&gt;练&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;评&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="707" width="40" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-12" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;训&lt;/div&gt;&lt;div&gt;练&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="700" width="32" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-13" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;&lt;div&gt;试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="700" width="38" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-14" value="训&lt;div&gt;练&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="510" width="30" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-15" value="测&lt;div&gt;试&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="510" width="30" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-17" value="测&lt;div&gt;试&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="510" width="30" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-22" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;训&lt;/div&gt;&lt;div&gt;练&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="30" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-23" value="模&lt;div&gt;型&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;&lt;div&gt;试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="30" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-24" value="配&lt;div&gt;置&lt;/div&gt;&lt;div&gt;文&lt;/div&gt;&lt;div&gt;件&lt;/div&gt;&lt;div&gt;生&lt;/div&gt;&lt;div&gt;成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="510" width="30" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-25" value="自&lt;div&gt;动&lt;/div&gt;&lt;div&gt;化&lt;/div&gt;&lt;div&gt;训&lt;/div&gt;&lt;div&gt;练&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;评&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="510" width="30" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-26" value="主&lt;div&gt;模&lt;/div&gt;&lt;div&gt;型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="510" width="30" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3gMsG_vnIVLzhyqSPz0f-27" value="哨&lt;div&gt;兵&lt;br&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;型&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="510" width="30" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
